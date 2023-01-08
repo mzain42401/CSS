@@ -1,0 +1,13 @@
+*{
+    color: white;
+    padding: 10px;
+}
+p.para{
+    background-color: rgb(250,250 , 250);
+    border: 2px solid aqua;
+    padding: inherit;
+}
+p,h1{
+    background-color: black;
+    
+}
