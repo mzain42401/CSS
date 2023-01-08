@@ -1,0 +1,21 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#DIV{
+    width: 100%;
+    height: 100vh;
+    background-color: aqua;
+    background-image: url('{MZ developer}.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    /* background-attachment: fixed; */
+    font-family: 'Rubik Gemstones', cursive;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    /* text-decoration: underline; */
+    border: 2px solid green;
+    border-radius: 20px;
+}

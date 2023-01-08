@@ -1,0 +1,17 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    border: 2px solid black;
+}
+p{
+    background-color: red;
+    color: white;
+}
+.para.claas{
+    background-color: aqua;
+    color: black;
+}
+.para {
+    background-color: brown;
+}
